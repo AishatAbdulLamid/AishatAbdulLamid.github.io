@@ -51,12 +51,6 @@ CREATE TABLE depositor(
 SELECT * FROM customer;
 
 					/*Query 1*/
-/*Write a query to find all customers who have at least one loan and one deposit 
-account. Include the cust_ID, account_number, and loan_number in your results and 
-organize the results by cust_id. Note: Some customers may appear multiple times due 
-to having multiple loans or deposit accounts and that is ok. Your solution must 
-include a JOIN.*/
-
 SELECT customer.cust_ID, depositor.account_number,
 borrower.loan_number FROM customer
 JOIN depositor ON customer.cust_ID = depositor.cust_ID
