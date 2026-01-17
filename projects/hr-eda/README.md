@@ -3,9 +3,9 @@
 This project focuses on cleaning and analyzing a large HR dataset using Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn.
 
 ## Objectives
-- Clean and preprocess messy HR data
-- Perform exploratory data analysis (EDA)
-- Visualize key trends in attrition, salary, and job roles
+- To clean and preprocess messy HR dataset
+- To perform exploratory data analysis (EDA)
+- To Visualize key trends in attrition, salary, and job roles
 
 ## Tools Used
 - Python
