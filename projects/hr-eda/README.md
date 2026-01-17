@@ -14,8 +14,9 @@ This project focuses on cleaning and analyzing a large HR dataset using Python l
 - Matplotlib, Seaborn
 
 ## Files
+## 📁 Files
 - `HR_Data_Cleaning.ipynb`: Notebook with cleaning and EDA steps
-- `dirty_hr_large.csv`: Raw dataset (if available)
+- [`dirty_hr_large.csv`](dirty_hr_large.csv): Raw HR dataset used for analysis
 
 ## How to Run
 1. Download or Clone the repository
